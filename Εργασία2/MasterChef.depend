@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1524068193 source:c:\users\Χρήστος\desktop\master2\player.cpp
+	"Player.h"
+	<iostream>
+	<stdlib.h>
+	<string>
+	<cstdio>
+
+1524066707 c:\users\Χρήστος\desktop\master2\player.h
+	<string>
+
+1524067247 source:c:\users\Χρήστος\desktop\master2\team.cpp
+	"Team.h"
+	"Player.h"
+	<iostream>
+	<string>
+
+1524067232 c:\users\Χρήστος\desktop\master2\team.h
+	"Player.h"
+	<string>
+
+1524069441 source:c:\users\Χρήστος\desktop\master2\main.cpp
+	<iostream>
+	"Player.h"
+	"Team.h"
+	<ctime>
+	<cstdlib>
+	<cstdio>
+
