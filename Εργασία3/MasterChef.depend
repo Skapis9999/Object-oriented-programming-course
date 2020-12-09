@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1523081083 source:c:\users\angry laptop too\desktop\masterchef\main.cpp
+	"Team.h"
+
+1523029915 c:\users\angry laptop too\desktop\masterchef\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1523029643 c:\users\angry laptop too\desktop\masterchef\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1523030048 source:c:\users\angry laptop too\desktop\masterchef\team.cpp
+	"Team.h"
+	"Player.h"
+
+1523029901 source:c:\users\angry laptop too\desktop\masterchef\player.cpp
+	"Player.h"
+
+1523081242 source:c:\users\angry laptop too\desktop\masterchef\creativitycompetition.cpp
+
+1492455462 source:c:\users\angry laptop too\desktop\masterchef\immunitycompetition.cpp
+
+1492455468 source:c:\users\angry laptop too\desktop\masterchef\teamcompetition.cpp
+
+1523030048 source:c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\team.cpp
+	"Team.h"
+	"Player.h"
+
+1523029643 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1525699952 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1525978477 source:c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\creativitycompetition.cpp
+	"CreativityCompetition.h"
+
+1523086633 source:c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\player.cpp
+	"Player.h"
+
+1525978477 source:c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\immunitycompetition.cpp
+	"ImmunityCompetition.h"
+	"ImmunityAward.h"
+
+1525978069 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\immunitycompetition.h
+	"Competition.h"
+	"ImmunityAward.h"
+	"Team.h"
+
+1525972333 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\competition.h
+	<iostream>
+	<string>
+
+1492454451 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\immunityaward.h
+	"Award.h"
+
+1492454413 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\award.h
+	<string>
+	<iostream>
+
+1525698046 source:c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\main.cpp
+	"Team.h"
+	"CreativityCompetition.h"
+	"ExcursionAward.h"
+	"FoodAward.h"
+	"ImmunityCompetition.h"
+	"ImmunityAward.h"
+	"Player.h"
+	"Round.h"
+	"TeamCompetition.h"
+
+1525977998 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\creativitycompetition.h
+	"Competition.h"
+	"ExcursionAward.h"
+	<string>
+	"Team.h"
+
+1523086616 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1523029363 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1492448202 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\round.h
+	<iostream>
+	<string>
+
+1525974633 c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\teamcompetition.h
+	"Competition.h"
+	"Round.h"
+	"Team.h"
+	"Player.h"
+	"FoodAward.h"
+
+1525875489 source:c:\users\ikofo\desktop\c - c++\c++\masterchef\3rd excercise\teamcompetition.cpp
+	"TeamCompetition.h"
+	<iostream>
+
+1525974878 source:c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\creativitycompetition.cpp
+	"CreativityCompetition.h"
+
+1525974400 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\creativitycompetition.h
+	"Competition.h"
+	"ExcursionAward.h"
+	<string>
+	"Team.h"
+
+1525968734 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\competition.h
+	<iostream>
+	<string>
+
+1523083018 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\excursionaward.h
+	"Award.h"
+	<cstdlib>
+
+1492450814 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\award.h
+	<string>
+	<iostream>
+
+1523026044 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1525696354 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\player.h
+	<iostream>
+	<string>
+	<cstdio>
+	<cstdlib>
+
+1525974998 source:c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\main.cpp
+	"Team.h"
+	"CreativityCompetition.h"
+	"ExcursionAward.h"
+	"FoodAward.h"
+	"ImmunityCompetition.h"
+	"ImmunityAward.h"
+	"Player.h"
+	"Round.h"
+	"TeamCompetition.h"
+
+1523025764 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\foodaward.h
+	"Award.h"
+	<cstdlib>
+
+1525974470 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\immunitycompetition.h
+	"Competition.h"
+	"ImmunityAward.h"
+	"Team.h"
+
+1492450852 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\immunityaward.h
+	"Award.h"
+
+1492444602 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\round.h
+	<iostream>
+	<string>
+
+1525971034 c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\teamcompetition.h
+	"Competition.h"
+	"Round.h"
+	"Team.h"
+	"Player.h"
+	"FoodAward.h"
+
+1523083034 source:c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\player.cpp
+	"Player.h"
+
+1523026450 source:c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\team.cpp
+	"Team.h"
+	"Player.h"
+
+1525871890 source:c:\users\Χρήστος\desktop\Σπουδές\2o Εξάμηνο\Αντικειμενοστραφής προγραμματισμός\Εργασίες\Εργασία3\teamcompetition.cpp
+	"TeamCompetition.h"
+	<iostream>
+
